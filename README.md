@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Overview
+## Overview
 
 The Open Component Documentation Standard (OCDS) defines a structured, machine-readable format for documenting design system components.
 
@@ -14,7 +14,7 @@ OCDS provides that structure.
 
 ---
 
-## 🎯 Why This Exists
+## Why This Exists
 
 Most design systems already document:
 
@@ -35,7 +35,7 @@ We believe these shared patterns can be translated into a common, open, extensib
 
 ---
 
-## 🧠 Our Hypothesis
+## Our Hypothesis
 
 If component documentation becomes structured and machine-readable:
 
@@ -47,8 +47,7 @@ If component documentation becomes structured and machine-readable:
 
 ---
 
-## 📦 What OCDS Defines (v0.1)
-
+## What OCDS Defines (v0.1)
 OCDS v0.1 introduces a framework-agnostic core model for:
 
 ### 1. Component Metadata
@@ -71,7 +70,7 @@ OCDS v0.1 introduces a framework-agnostic core model for:
 - Keyboard interaction expectations
 - Focus management metadata
 
-### 4. Cross-Framework Bindings (Optional)
+### 4. Cross-Framework Bindings
 Mappings for:
 - React
 - Vue
@@ -79,7 +78,3 @@ Mappings for:
 - Flutter
 - iOS / Android
 - Other platforms
-
----
-
-## 🏗 Repository Structure
