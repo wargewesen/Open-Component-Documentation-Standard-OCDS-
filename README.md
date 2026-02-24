@@ -1,6 +1,6 @@
 # Open Component Documentation Standard (OCDS)
 
-> An open, community-driven standard for AI-readable, cross-framework component documentation.
+ An open, community-driven standard for AI-readable, cross-framework component documentation.
 
 ---
 
